@@ -3,7 +3,7 @@
 
 ![Index Page](./images/indexpage.JPG)
 
-View [here](http://lenseshoppingportal.epizy.com/index.php)
+View Website [here](http://lenseshoppingportal.epizy.com/index.php)
 
 
 ###Technologies
