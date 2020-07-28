@@ -4,7 +4,7 @@ The Project entitled "LENSE SHOPPING PORTAL" is a web-based application Software
 
 ![Index Page](./images/indexpage.JPG)
 
-View Website [here](http://lenseshoppingportal.epizy.com/index.php)
+View Website [here](http://lenseshoppingportal1.epizy.com/)
 
 
 ## Technologies
