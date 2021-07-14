@@ -9,7 +9,7 @@ The Project entitled "LENSE SHOPPING PORTAL" is a web-based application Software
 
 ## Live Demo
 
-View Website [here](http://lenseshoppingportal1.epizy.com/)
+View Website [here](http://lenseshoppingportal.epizy.com/)
 
 
 ## Getting Started
